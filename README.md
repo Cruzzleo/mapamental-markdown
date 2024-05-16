@@ -12,7 +12,7 @@ Este é um guia passo a passo sobre como criar mapas mentais usando Markdown. O 
 
 ## Contribuindo
 
-Se você tiver alguma sugestão de melhoria, novo exemplo ou correção para fazer, fique à vontade para contribuir com o projeto! Consulte o arquivo [Contributing.md](Doc/Mapa-mental/Contributing.md) para obter instruções sobre como contribuir.
+Se você tiver alguma sugestão de melhoria, novo exemplo ou correção para fazer, fique à vontade para contribuir com o projeto! Consulte o arquivo [Contributing.md](Doc/Contributing.md) para obter instruções sobre como contribuir.
 
 ## Licença
 
