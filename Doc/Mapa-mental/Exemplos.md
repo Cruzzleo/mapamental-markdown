@@ -78,7 +78,7 @@ Este é um exemplo básico de um mapa mental que lista metas para o ano em três
 
 ---
 
-## Exemplo 2: Mapa Mental com Conexões
+## Exemplo 6: Mapa Mental com Conexões
 
 ### Título: Projeto de Pesquisa
 
