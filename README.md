@@ -12,7 +12,7 @@ Este é um guia passo a passo sobre como criar mapas mentais usando Markdown. O 
 
   ## 🤖Tecnologias Utilizadas
  - IA Generativa [ChatGPT](https://chatgpt.com/auth/login?next=%2Fc%2F96d00ddb-4698-481e-a91d-db0837f93870) para roteirização e revisão;
- - Exemplo de criação para mapa mentais interativos [markdown + mindmap](https://markmap.js.org/).
+ - Exemplos de criação para mapas mentais interativos [markdown + mindmap](https://markmap.js.org/).
 
 ## Contribuindo
 
