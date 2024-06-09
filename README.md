@@ -1,6 +1,6 @@
 # Guia de Mapas Mentais em Markdown
 
-Bem-vindo ao Guia de Mapas Mentais em Markdown! Este guia foi elaborado utilizando a poderosa inteligência artificial da OpenAI, e montado com carinho por Leandro Cruz. Aqui você encontrará instruções detalhadas, exemplos práticos e dicas para criar mapas mentais eficazes em Markdown.
+Bem-vindo ao Guia de Mapas Mentais em Markdown! Aqui você encontrará instruções detalhadas, exemplos práticos e dicas para criar mapas mentais eficazes em Markdown.
 ---
 Este é um guia passo a passo sobre como criar mapas mentais usando Markdown. O guia oferece instruções detalhadas, exemplos práticos e dicas para criar mapas mentais eficazes para uma variedade de finalidades.
 
